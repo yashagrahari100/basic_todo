@@ -1,6 +1,5 @@
 # MERN Todo App with User Authentication
 
-![MERN Banner](https://miro.medium.com/v2/resize:fit:828/format:webp/1*BBO5RgD89K4gxGSDXEV5jA.png)
 
 
 A full-stack Todo application built using the **MERN stack (MongoDB, Express.js, React, Node.js)** with secure **JWT-based authentication**, allowing users to register, log in, and manage their personal todos.
@@ -39,5 +38,5 @@ A full-stack Todo application built using the **MERN stack (MongoDB, Express.js,
 ## Home
 ![alt text](image-2.png)
 
-![MERN Stack](https://miro.medium.com/v2/resize:fit:828/format:webp/1*KK4R_Z_StZ7Y5O0U-8eOpg.png)
+
 
